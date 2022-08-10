@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;Exerc-Java-Array-Problema-Negativo&apos; to &apos;Curso-Exec-10&apos;&#x0D;&#x0A;- Original element: &apos;Exerc-Java-Array-Problema-Negativo&apos;&#x0D;&#x0A;- Renamed element: &apos;Exerc-Java-Array-Problema-Negativo&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;Exerc-Java-Array-Problema-Negativo&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=Exerc-Java-Array-Problema-Negativo" name="Curso-Exec-10" references="true" stamp="1659711998817" version="1.0"/>
+</session>

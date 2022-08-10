@@ -1,0 +1,19 @@
+package problemaNegativo;
+
+import java.util.Scanner;
+
+public class EX01 {
+
+	public static void main(String[] args) {
+		
+		Scanner ler = new Scanner(System.in);
+		System.out.print("Quantos numeros voce vai digitar? ");
+		int n = ler.nextInt();
+		for(int i=0; i<n; i++) {
+			System.out.println("Digite um numero: ");
+		}
+		
+
+	}
+
+}
